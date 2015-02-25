@@ -31,7 +31,7 @@ How to use
     3.Initialize Slider
     
     $(".slider").slider({
-     	  direction : 'horizontal',//horizontal(水平轮播) or vertical(竖直轮播) or fader(渐变轮播)
+     	direction : 'horizontal',//horizontal(水平轮播) or vertical(竖直轮播) or fader(渐变轮播)
         speed : '300',
         width : null,
         height : null,
