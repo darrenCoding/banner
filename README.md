@@ -42,4 +42,4 @@ How to use
         hideArrow : false,//是否隐藏左右箭头
         fadeInTime : 200,//如果direction是fader的话设置淡出时间
         fadeOutTime : 200//如果direction是fader的话设置淡入时间
-    });
+    });f
