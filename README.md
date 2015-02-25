@@ -43,3 +43,5 @@ How to use
         fadeInTime : 200,//如果direction是fader的话设置淡出时间
         fadeOutTime : 200//如果direction是fader的话设置淡入时间
     });
+
+浏览器兼容: IE7+，Chrome，Firefox，Opera，safari
